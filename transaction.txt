@@ -1,0 +1,20 @@
+Customer Id Number: 6
+ Total cost 119.93
+ Each service cost: 
+Premium 49.99
+Preferred 150 59.95
+
+Basic Phone 9.99
+Customer Id Number: 1
+ Total cost 0.0
+ Each service cost: 
+Customer Id Number: 2
+ Total cost 0.0
+ Each service cost: 
+Customer Id Number: 3
+ Total cost 0.0
+ Each service cost: 
+Customer Id Number: 4
+ Total cost 0.0
+ Each service cost: 
+
